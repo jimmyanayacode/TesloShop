@@ -44,6 +44,12 @@ $ npm install
 $ docker-compose up -d
 ```
 
+## Fake database
+```
+http://localhost:3000/api/seed
+```
+
+
 ## Running the app
 
 ```bash
